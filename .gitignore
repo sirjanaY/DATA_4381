@@ -1,2 +1,13 @@
-data/raw/*
-data/raw/*
+
+# Ignore all data folders
+data/
+
+# Ignore Mac system files
+.DS_Store
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python cache
+__pycache__/
+
