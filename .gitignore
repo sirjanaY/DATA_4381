@@ -1,7 +1,4 @@
 
-# Ignore all data folders
-data/
-
 # Ignore Mac system files
 .DS_Store
 
